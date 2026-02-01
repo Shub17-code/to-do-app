@@ -37,8 +37,8 @@ The application is built with **React** on the frontend and **Node.js + Express*
 
 The project is divided into two main parts:
 
-- **Frontend**: Located in the `frontend/` directory with its own [README](frontend/README.md).
-- **Backend**: Located in the `backend/` directory with its own [README](backend/README.md).
+- **Frontend**: Located in the `frontend/` directory .
+- **Backend**: Located in the `backend/` directory .
 
 ---
 
